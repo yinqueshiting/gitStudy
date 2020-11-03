@@ -2,4 +2,5 @@ master文件
 直接在远程上编辑，与workspace的这行产生冲突
 第二次修改新增第二行
 
-来一个冲突
+测试git commit --amend第一次
+测试git commit --amend第一次11111
