@@ -1,1 +1,2 @@
 master文件
+直接在远程上编辑，与workspace的这行产生冲突
